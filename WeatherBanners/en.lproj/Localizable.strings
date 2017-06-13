@@ -1,51 +1,6 @@
 {
 	"THE_CURRENT_WEATHER_IS" = "The current weather is";
-	"TORNADO_WATCH" = "Tornado Watch";
-	"TROPICAL_STORM_WATCH" = "Tropical Storm Watch";
-	"HURRICANE_WATCH"	= "Hurricane Watch";
-	"SEVERE_THUNDERSTORMS" = "Severe Thunderstorms";
-	"THUNDERSTORMS" = "Thunderstorms";
-	"SCATTERED_THUDERSTORMS" = "Scattered Thunderstorms";
-	"SCATTERED_SHOWERS" = "Scattered Showers";
-	"HEAVY_RAIN" = "Heavy Rain";
-	"ISOLATED_THUNDERSTORMS" = "Isolated Thunderstorms";
-	"MIXED_RAIN_WITH_SNOW" = "Mixed Rain with Snow";
-	"SNOW" = "Snow";
-	"MIXED_RAIN_WITH_SLEET" = "Mixed Rain with Sleet";
-	"MIXED_SNOW_WITH_SLEET" = "Mixed Snow with Sleet";
-	"SLEET" = "Sleet";
-	"FREEZING_DRIZZLE" = "Freezing Drizzle";
-	"FREEZING_RAIN" = "Freezing Rain";
-	"DRIZZLE" = "Drizzle";
-	"SHOWERS" = "Showers";
-	"RAIN" = "Rain";
-	"FLURRIES" = "Flurries";
-	"SNOW_SHOWERS" = "Snow Showers";
-	"HAIL" = "Hail";
-	"MIXED_RAINFALL" = "Mixed Rainfall";
-	"DUST" = "Dust";
-	"FOG" = "Fog";
-	"HAZE" = "Haze";
-	"SMOKE" = "Smoke";
-	"BREEZY" = "Breezy";
-	"WINDY" = "Windy";
-	"FRIGID" = "Frigid";
-	"CLOUDY" = "Cloudy";
-	"MOSTLY_CLOUDY" = "Mostly Cloudy";
-	"PARTLY_CLOUDY" = "Partly Cloudy";
-	"CLEAR" = "Clear";
-	"SUNNY" = "Sunny";
-	"MOSTLY_CLEAR" = "Mostly Clear";
-	"MOSTLY_SUNNY" = "Mostly Sunny";
-	"HOT" = "Hot";
-	"HEAVY_SNOW" = "Heavy Snow";
-	"SCATTERED_SNOW_SHOWERS" = "Scattered Snow Showers";
-	"HEAVY_SNOW" = "Heavy Snow";
-	"BLIZZARD" = "Blizzard";
-	"SNOWY" = "Snowy";
 	"NOT_AVAILABLE" = "Not Available";
-
-
 	"WEATHER" = "Weather";
 	"PLEASE_SELECT_A_CITY" = "Please select a city";
 }
