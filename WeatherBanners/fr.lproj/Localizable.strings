@@ -17,9 +17,9 @@
 	"FREEZING_DRIZZLE" = "Bruine Verglacente";
 	"FREEZING_RAIN" = "Pluie Verglacente";
 	"DRIZZLE" = "Bruine";
-	"SHOWERS" = "Averse";
+	"SHOWERS" = "Averses";
 	"RAIN" = "Pluie";
-	"FLURRIES" = "Bourrasque de Neige";
+	"FLURRIES" = "Bourrasques de Neige";
 	"SNOW_SHOWERS" = "Averses de Neige";
 	"HAIL" = "Grêle";
 	"MIXED_RAINFALL" = "Averses Pluvieuses";
