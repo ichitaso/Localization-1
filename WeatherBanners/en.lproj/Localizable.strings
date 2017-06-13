@@ -40,7 +40,6 @@
 	"HOT" = "Hot";
 	"HEAVY_SNOW" = "Heavy Snow";
 	"SCATTERED_SNOW_SHOWERS" = "Scattered Snow Showers";
-	"HEAVY_SNOW" = "Heavy Snow";
 	"BLIZZARD" = "Blizzard";
 	"SNOWY" = "Snowy";
 	"NOT_AVAILABLE" = "Not Available";
