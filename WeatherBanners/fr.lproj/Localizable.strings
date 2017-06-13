@@ -1,4 +1,49 @@
 {
+	"THE_CURRENT_WEATHER_IS" = "La météo actuelle est";
+	"TORNADO_WATCH" = "Alerte Tornade";
+	"TROPICAL_STORM_WATCH" = "Alerte Tempête Tropicale";
+	"HURRICANE_WATCH"	= "Alerte Ouragan";
+	"SEVERE_THUNDERSTORMS" = "Orages Importants";
+	"THUNDERSTORMS" = "Orages";
+	"SCATTERED_THUDERSTORMS" = "Orages Dispersés";
+	"SCATTERED_SHOWERS" = "Averses Dispersées";
+	"HEAVY_RAIN" = "Forte Pluie";
+	"ISOLATED_THUNDERSTORMS" = "Orages Isolés";
+	"MIXED_RAIN_WITH_SNOW" = "Mélange de Pluie et de Neige";
+	"SNOW" = "Neige";
+	"MIXED_RAIN_WITH_SLEET" = "Mélange de Pluie et de Neige Fondue";
+	"MIXED_SNOW_WITH_SLEET" = "Mélange de Neige et de Neige Fondue";
+	"SLEET" = "Neige Fondue";
+	"FREEZING_DRIZZLE" = "Bruine Verglacente";
+	"FREEZING_RAIN" = "Pluie Verglacente";
+	"DRIZZLE" = "Bruine";
+	"SHOWERS" = "Averses";
+	"RAIN" = "Pluie";
+	"FLURRIES" = "Bourrasques de Neige";
+	"SNOW_SHOWERS" = "Averses de Neige";
+	"HAIL" = "Grêle";
+	"MIXED_RAINFALL" = "Averses Pluvieuses";
+	"DUST" = "Poussière";
+	"FOG" = "Brouillard";
+	"HAZE" = "Brume";
+	"SMOKE" = "Fumée";
+	"BREEZY" = "Légérement Venteux";
+	"WINDY" = "Venteux";
+	"FRIGID" = "Froid";
+	"CLOUDY" = "Nuageux";
+	"MOSTLY_CLOUDY" = "Majoritairement Nuageux";
+	"PARTLY_CLOUDY" = "Partiellement Nuageux";
+	"CLEAR" = "Clair";
+	"SUNNY" = "Ensoleillé";
+	"MOSTLY_CLEAR" = "Majoritairement Clair";
+	"MOSTLY_SUNNY" = "Majoritairement Ensoleillé";
+	"HOT" = "Chaud";
+	"HEAVY_SNOW" = "Chutes de Neige";
+	"SCATTERED_SNOW_SHOWERS" = "Averses de Neige";
+	"HEAVY_SNOW" = "Chutes de Neige";
+	"BLIZZARD" = "Blizzard";
+	"SNOWY" = "Neigeux";
+	"NOT_AVAILABLE" = "Indisponible";
 	"THE_CURRENT_WEATHER_IS" = "";
 	"TORNADO_WATCH" = "";
 	"TROPICAL_STORM_WATCH" = "";
@@ -44,7 +89,6 @@
 	"SNOWY" = "";
 	"NOT_AVAILABLE" = "";
 
-
-	"WEATHER" = "";
-	"PLEASE_SELECT_A_CITY" = "";
+	"WEATHER" = "Météo";
+	"PLEASE_SELECT_A_CITY" = "Veuillez choisir une ville";
 }
